@@ -1,0 +1,4 @@
+#Thu Dec 24 02:14:46 GMT-08:00 2020
+base.0=F\:\\UnityProjects\\Easter Egg Hunt\\Pkg\\launcher\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
